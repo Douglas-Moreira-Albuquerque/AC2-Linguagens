@@ -1,0 +1,1 @@
+select * from bdclientesac2.clientes
